@@ -715,7 +715,6 @@ html {
     border-radius: 24px 24px 0px 0px;
     object-fit: cover;
     z-index: 10;
-
 }
 @media (max-width: 1024px) {
     .general-section-alpha-container-img {
