@@ -159,6 +159,9 @@ html {
     color: black;
     cursor: pointer;
 }
+.header-navigation-container-list-item:hover {
+    color: #35B3A9;
+}
 @media (max-width: 1024px) {
     .header-navigation-container-list-item {
         margin: 0px;
@@ -179,6 +182,9 @@ html {
     list-style: none;
     color: black;
     cursor: pointer;
+}
+.header-navigation-container-list-item-last:hover {
+    color: #35B3A9;
 }
 @media (max-width: 910px) {
     .header-navigation-container-list-item-last {
@@ -211,9 +217,16 @@ html {
     line-height: normal;
     cursor: pointer;
 }
+.header-navigation-button:hover {
+    background-color: aquamarine;
+}
 
 .header-navigation-button-burger {
     display: none;
+}
+
+.header-navigation-button-burger:hover {
+    background-color: aquamarine;
 }
 @media (max-width: 1303px) {
     .header-navigation-button {
@@ -492,6 +505,9 @@ html {
     line-height: 20px;
     cursor: pointer;
 }
+.zero-section-container-menu-list-item:hover {
+    background-color: aquamarine;
+}
 @media (max-width: 1024px) {
     .zero-section-container-menu-list-item {
         margin: 0px 8px 8px 0px;
@@ -525,6 +541,9 @@ html {
     line-height: 20px;
     cursor: pointer;
 }
+.zero-section-container-menu-list-item-all:hover {
+    background-color: aquamarine;
+}
 @media (max-width: 1024px) {
     .zero-section-container-menu-list-item-all {
         display: flex;
@@ -555,6 +574,9 @@ html {
     line-height: 20px;
     cursor: pointer;
 }
+.zero-section-container-menu-list-item-self:hover {
+    background-color: aquamarine;
+}
 @media (max-width: 1024px) {
     .zero-section-container-menu-list-item-self {
         display: flex;
@@ -583,6 +605,9 @@ html {
     font-weight: 600;
     line-height: 20px;
     cursor: pointer;
+}
+.zero-section-container-menu-list-item-last:hover {
+    background-color: aquamarine;
 }
 @media (max-width: 1024px) {
     .zero-section-container-menu-list-item-last {
@@ -1144,6 +1169,9 @@ html {
     line-height: 24px;
     cursor: pointer;
 }
+.more-button:hover {
+    background-color: rgb(73, 180, 135);
+}
 
 
 
@@ -1260,6 +1288,9 @@ html {
     line-height: 24px;
     cursor: pointer;
 }
+.footer-general-container-left-block-left-list-item:hover {
+    color: rgb(73, 180, 135);
+}
 
 .footer-general-container-left-block-right-list {
     margin: 0px;
@@ -1276,7 +1307,9 @@ html {
     line-height: 24px;
     cursor: pointer;
 }
-
+.footer-general-container-left-block-right-list-item:hover {
+    color: rgb(73, 180, 135);
+}
 
 .footer-general-container-middle-block {
     display: flex;
@@ -1342,6 +1375,9 @@ html {
     position: relative;
     z-index: 20;
     cursor: pointer;
+}
+.footer-general-container-middle-block-input-button:hover {
+    background-color: rgb(73, 180, 135);
 }
 @media (max-width: 320px) {
     .footer-general-container-middle-block-input-button {
@@ -1459,6 +1495,9 @@ html {
     color: #FFF;
     cursor: pointer;
 }
+.footer-ultimate-block-item:hover {
+    color: yellow;
+}
 
 .footer-ultimate-block-item-last {
     display: flex;
@@ -1469,6 +1508,9 @@ html {
     opacity: 0.7;
     color: #FFF;
     cursor: pointer;
+}
+.footer-ultimate-block-item-last:hover {
+    color: yellow;
 }
 
 /********************************************************************************************************************************/
@@ -2522,6 +2564,9 @@ html {
     background-color: #35B3A9;
     cursor: pointer;
 }
+.aside-download-block-content-button:hover {
+    background-color: rgb(73, 180, 135);
+}
 @media (max-width: 1024px) {
     .aside-download-block-content-button {
         width: 182px;
@@ -2744,6 +2789,9 @@ html {
     color: #FFF;
     background-color: #35B3A9;
     cursor: pointer;
+}
+.aside-Liliya-block-content-button:hover {
+    background-color: rgb(73, 180, 135);
 }
 @media (max-width: 1024px) {
     .aside-Liliya-block-content-button {
@@ -2983,6 +3031,9 @@ html {
     background-color: #35B3A9;
     cursor: pointer;
     z-index: 10;
+}
+.aside-eight-block-container-content-button:hover {
+    background-color: rgb(73, 180, 135);
 }
 @media (max-width: 768px) {
     .aside-eight-block-container-content-button {
@@ -3264,6 +3315,9 @@ html {
     color: #FFF;
     background-color: #16C8BB;
     cursor: pointer;
+}
+.ultimate-section-article-block-container-left-button:hover {
+    background-color: rgb(73, 180, 135);
 }
 
 .ultimate-section-article-block-container-right{
